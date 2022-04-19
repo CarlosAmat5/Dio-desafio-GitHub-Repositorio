@@ -1,3 +1,2 @@
-Para realizar o download do Git: https://git-scm.com/
-Neste download vôce tambem tera o GitBash, essa extensão ajudara
-na inserção de comandos para Commitar eu repositorio Git. 
+- Para realizar o download do Git: https://git-scm.com/
+- Neste download vôce tambem tera o GitBash, essa extensão ajudara na inserção de comandos para Commitar eu repositorio Git. 

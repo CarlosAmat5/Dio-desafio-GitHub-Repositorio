@@ -1,3 +1,14 @@
+# Carta de Apresentação por HTML
+
+Neste exercisió foram utilizados:
+
+- Favicons
+
+- Links
+- Foto 3x4
+
+## A seguir o codigo em HTML
+
 <!DOCTYPE html>
 <html lang="pt;br">
 <head>
