@@ -32,4 +32,25 @@ Esse exercício teve como finalidade, recomendar 4 canais de videos  YouTube, e 
 </body>
 </html>
 
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>video curso em video</title>
+</head>
+<body>
+    <h1>Curso de HTML5 e CSS3 do Curso em Video</h1> 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Ejkb_YpuHWs" 
+    title="YouTube video player" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen></iframe> 
+    <p>Veja o curso completo <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n" target="_blanck">aqui</a>.</p>
+    <p>Ou clicka no botão para voltar.</p> 
+    <a href="../index.html"><img src="voltar.png" alt=""></a>  
+</body>
+</html>
+
 ### No index encontra-se o codigo HTML
