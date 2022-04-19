@@ -1,4 +1,4 @@
-# Dio Repositorio desafio GitHub 
+# Dio Repositorio Desafio Git e GitHub 
 Repositorio criado para o desafio de projeto da Bootcamp da DIO.
 
 ## Links Úteis
